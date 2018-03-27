@@ -39,5 +39,6 @@
    
 ## Sun MicroSystem （ 2009年9月 ~ 2010年9月 ）
 ### OpenSolaris/GTK/ATK 
->
->   
+> GTK贡献者
+> OpenSolaris A11y(Accessbility) contributor
+> Keywors: C/C++ Makefile GTK

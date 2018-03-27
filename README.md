@@ -1,7 +1,6 @@
 
 # 王玥（男）
-- 手机：13811185748
-- Email：isaacson.wang@gmail.com 或 wy85748@126.com
+手机：13811185748 | Email：isaacson.wang@gmail.com 或 wy85748@126.com
 
 # 个人信息
  - 王玥/男/1984.8

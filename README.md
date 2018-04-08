@@ -1,5 +1,3 @@
-title：王玥中文简历
-
 ## 王玥（男）
 - 手机：13811185748
 - Email：isaacson.wang@gmail.com || wy85748@126.com

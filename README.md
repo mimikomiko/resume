@@ -18,7 +18,7 @@
 > - Keywords: 机器学习 深度学习 特征工程 离在线一致性 Jupter TensorFlow Spark livy 
 #### Gizzle 特征生产平台 & 基于 Rocksdb 的分布式存储系统
 > - 基于 Golang 实现的Gizzle 特征生产平台可方便的将离线计算、流式计算、高频计算整合起来，通过统一的导入服务，在线上生效；快速支持模型和规则词典的迭代
-> - 基于 Rocksdb 的高性能分布式存储，trunk 层6500w qps，支持最核心业务的高可用设计
+> - 基于 Rocksdb 的高性能分布式KV存储系统，最大集群Trunk层7000w qps，支持最核心业务的高可用设计
 > - 基于 Rocksdb 的统一词典服务，G级词典秒级加载，分布式/本地化两种模式解决不同业务问题
 > - Keywords: Azkaban Spark Flink 分布式系统 kafka CAP 特征多活
 #### 六边形网格系统&数据可视化

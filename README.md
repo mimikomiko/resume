@@ -29,7 +29,7 @@
 
 ### 美丽说 （ 2015年3月 ~ 2016年3月 ）
 #### 商品搜索服务/CTR预估服务/商品推荐服务 
-> - 商品搜索、推荐、CPC 广告架构负责人
+> - 商品搜索、推荐、CPC 广告架构负责人 资深研发工程师
 > - 基于 sphinx 实现的商品搜索服务、广告/商品 rank 服务
 > - 基于 storm 实现的推荐系统
 > - Keywords:C++/PHP Thrift Storm HBase Codis ZK libevent
@@ -37,13 +37,13 @@
 
 ### 360 （ 2014年3月 ~ 2015年3月 ）
 #### 移动搜索Rerank服务/移动搜索相关性、反作弊数据挖掘
-> - Rerank 服务架构负责人
+> - Rerank 服务架构负责人 高级研发工程师
 > - Keywords: C++/Python Tonardo HadoopMR Thrift MC/Redis
 <br />
 
 ### 中国集成电路产业集团 华大九天 （ 2010年3月 ~ 2014年3月 ）
 #### EDA设计平台/QT+OpenAccess
-> - EDA 平台 Schematic Diagram 负责人
+> - EDA 平台 Schematic Diagram 负责人，研发工程师->高级工程师->技术专家
 > - 负责原理图底层基础和80%逻辑图命令的设计和实现，负责实现SDL底层数据模块，仿真系统通信模块
 > - 超大规模C++系统，负责管理60w行代码模块，个人撸近10万行C++代码
 > - Keywords: C/C++ QT OpenAccess  select网络编程 预编译 模拟电路
@@ -51,7 +51,7 @@
 
 ### Sun MicroSystem （ 2008年9月 ~ 2009年9月 ）
 #### OpenSolaris/GTK/ATK 
-> - GTK/ATK贡献者
+> - GTK/ATK贡献者 intern programmer
 > - OpenSolaris A11y(Accessbility) contributor
 > - Keywords: C/C++ Makefile GTK
 
